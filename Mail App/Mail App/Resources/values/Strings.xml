@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">Mail App</string>
+    <string name="EmailText">E-mail address</string>
+    <string name="BodyMailText">Body mail</string>
+    <string name="Send">Send</string>
+    <string name="SubjectText">Subject</string>
+</resources>
